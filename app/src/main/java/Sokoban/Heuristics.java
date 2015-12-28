@@ -109,14 +109,14 @@ public class Heuristics {
         }
 
         /**
-         * @see add(Comparator<State>, int, int);
+         * @see #add(Comparator<State>, int, int);
          */
         public void add(Comparator<State> heuristic, int from) {
             add(heuristic, from, 0);
         }
 
         /**
-         * @see add(Comparator<State>, int);
+         * @see #add(Comparator<State>, int);
          */
         public void add(Comparator<State> heuristic) {
             add(heuristic, 0);

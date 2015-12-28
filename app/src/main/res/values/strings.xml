@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COAO Sokoban Solver</string>
+    <string name="solution_found_text">Solution found!</string>
+    <string name="solution_not_found_text">Solution not found.</string>
+</resources>

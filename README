@@ -18,14 +18,8 @@ The source code of this project was written by:
     * Christoffer Hirsimaa
     * Agnes Skattman Udd
 
+Port to Android by Joris Wit
+
 === License
 
 The source code of this project is released in the public domain.
-
-== How to build and run the code
-
-The Sokoban solver can be built using Apache Ant.
-
-    1. cd <project directory>
-    2. ant jar 
-    3. java -jar build/jars/Sokoban.jar <board number>
